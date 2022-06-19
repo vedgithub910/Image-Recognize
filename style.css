@@ -1,0 +1,6 @@
+.heading{width: 100%;color: chartreuse;
+font-size: 25px;} 
+body{background-color: darkgoldenrod;}
+.name{color: darkblue;font-size: 20px;}
+label{color: azure;box-shadow: 5px 5px 15px black;}
+#camera,#result{border: 5px solid;width: 300px;  height:300px;}
